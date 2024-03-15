@@ -4,7 +4,7 @@
 This project aims to conduct a thorough investigation of the job market for Data Engineering and Data Scientist positions in Germany. The objective is to pinpoint the essential skills and qualifications sought by employers, identify the attractive and deterring aspects of these roles, and provide a comprehensive view of the current market dynamics.
 
 ### Table of Contents
-- [Project Title](#project-title)
+  - [Project Title](#project-title)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Project Structure](#project-structure)
@@ -20,8 +20,8 @@ This project aims to conduct a thorough investigation of the job market for Data
 
 ### Project Structure
 The project is structured as follows:
-- **pdf/**: Provides project proposal 
-- **presentation/**: Provides pitch presentaion
+- **Job Market Analysis for Data Professionals in Germany - GROUP5 (1).pdf**: Provides project proposal 
+- **Market Analysis Insights.pptx**: Provides pitch presentaion
 - **README.md**: Provides an overview of the project
 
 ### Installation
